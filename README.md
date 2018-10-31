@@ -3,3 +3,4 @@
 2. <a href = "https://www.geeksforgeeks.org/program-to-remove-empty-array-elements-in-php/">Program to remove empty array elements in PHP </a>
 3. <a href = "https://www.geeksforgeeks.org/javascript-chart-js/">Javascript - Chart.js</a>
 4. <a href = "https://www.geeksforgeeks.org/how-to-convert-an-image-to-base64-encoding-in-php/">Image Encoding</a>
+5. <a href = "https://www.geeksforgeeks.org/what-is-the-difference-between-public-private-and-protected-in-php/">Public Protected Private PHP</a> 
