@@ -8,3 +8,4 @@
 7. <a href = "https://www.geeksforgeeks.org/introduction-to-microsoft-smb-a-network-file-sharing-protocol/"> SMB Protocol </a>
 8. <a href = "https://www.geeksforgeeks.org/convert-timestamp-to-readable-date-time-in-php/"> Converting timestamp to Readable format </a>
 9. <a href = "https://www.geeksforgeeks.org/merge-two-arrays-keeping-original-keys-in-php/"> Merge two arrays with altering the keys </a> 
+10. <a href = "https://www.geeksforgeeks.org/how-to-read-any-request-header-in-php/">https://www.geeksforgeeks.org/how-to-read-any-request-header-in-php/</a>
