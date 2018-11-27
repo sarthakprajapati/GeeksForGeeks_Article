@@ -9,5 +9,6 @@
 8. <a href = "https://www.geeksforgeeks.org/convert-timestamp-to-readable-date-time-in-php/"> Converting timestamp to Readable format </a>
 9. <a href = "https://www.geeksforgeeks.org/merge-two-arrays-keeping-original-keys-in-php/"> Merge two arrays with altering the keys </a> 
 10. <a href = "https://www.geeksforgeeks.org/how-to-read-any-request-header-in-php/">How to read any request header in PHP
-</a>11. <a href = "https://www.geeksforgeeks.org/string-comparison-using-vs-strcmp-in-php/">String Comparision in PHP
+</a>
+11. <a href = "https://www.geeksforgeeks.org/string-comparison-using-vs-strcmp-in-php/">String Comparision in PHP
 </a>
